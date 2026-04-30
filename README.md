@@ -102,26 +102,20 @@
 
 ## 🏦 Where I've shipped code
 
-```
- ┌─────────────────────────────────────────────────────────────────────────┐
- │  COMPANY                   ROLE              PERIOD        SECTOR       │
- ├─────────────────────────────────────────────────────────────────────────┤
- │  Infinity Pay Tech ▶▶▶▶▶▶  Team Lead         2025→now      Fintech      │
- │  Fidelity Investments ▶▶▶  Senior Dev        Jan–Apr 2025  Finance/AI   │
- │  US Bank ▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶  Senior Dev        Sep–Dec 2024  Banking      │
- │  Central Bank of Ireland▶  Senior Dev        2023–2024     Regulation   │
- │  Applus / NCT ▶▶▶▶▶▶▶▶▶▶  Senior Dev        2022–2023     Gov Tech     │
- │  An Bord Pleanála ▶▶▶▶▶▶  Senior Dev        2022          Gov Tech     │
- │  DXC Technology ▶▶▶▶▶▶▶▶  Senior Dev        2021          Enterprise   │
- │  Dell ▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶  Senior Dev        2021          Enterprise   │
- │  Verizon Connect ▶▶▶▶▶▶▶  Senior Dev        2020          Telecom      │
- │  Electroroute (Mitsubishi) Senior Dev        2019          Energy       │
- │  TII ▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶  Senior Dev        2018–2019     Gov Tech     │
- ├─────────────────────────────────────────────────────────────────────────┤
- │  🚀 SaaS Startup           Co-Founder / Go   2021→now      Fintech      │
- │     (private, pre-launch)  Backend Lead                                 │
- └─────────────────────────────────────────────────────────────────────────┘
-```
+| Company | Role | Period | Sector |
+|---|---|---|---|
+| Infinity Pay Tech | Team Lead | 2025 → now | Fintech |
+| Fidelity Investments | Senior Dev | Jan – Apr 2025 | Finance / AI |
+| US Bank | Senior Dev | Sep – Dec 2024 | Banking |
+| Central Bank of Ireland | Senior Dev | 2023 – 2024 | Regulation |
+| Applus / NCT | Senior Dev | 2022 – 2023 | Gov Tech |
+| An Bord Pleanála | Senior Dev | 2022 | Gov Tech |
+| DXC Technology | Senior Dev | 2021 | Enterprise |
+| Dell | Senior Dev | 2021 | Enterprise |
+| Verizon Connect | Senior Dev | 2020 | Telecom |
+| Electroroute (Mitsubishi) | Senior Dev | 2019 | Energy |
+| TII | Senior Dev | 2018 – 2019 | Gov Tech |
+| 🚀 SaaS Startup *(private, pre-launch)* | Co-Founder / Go Backend Lead | 2021 → now | Fintech |
 
 ---
 
@@ -152,7 +146,7 @@ type SaaSPlatform struct {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=juanjoseluisgarcia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=juanjoseluisgarcia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 &nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoseluisgarcia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
