@@ -35,7 +35,7 @@
   "focus":       ["Go", "TypeScript", "NestJS", "Next.js", "Microservices"],
   "domains":     ["Fintech", "Banking", "Regulated Industries"],
   "currently":   "Team Lead @ Infinity Pay Tech",
-  "side_quest":  "Co-Founder & Go backend lead — multi-tenant SaaS (pre-launch 🔒)",
+  "side_quest":  "Co-Founder & Go backend lead — Workmonitor (HR SaaS, workmonitor.io)",
   "strengths":   ["Legacy → Cloud-Native migrations", "Team mentoring", "End-to-end delivery"],
   "linkedin":    "juan-garcia-53480036"
 }
@@ -115,30 +115,35 @@
 | Verizon Connect | Senior Dev | 2020 | Telecom |
 | Electroroute (Mitsubishi) | Senior Dev | 2019 | Energy |
 | TII | Senior Dev | 2018 – 2019 | Gov Tech |
-| 🚀 SaaS Startup *(private, pre-launch)* | Co-Founder / Go Backend Lead | 2021 → now | Fintech |
+| 🚀 Workmonitor *(workmonitor.io)* | Co-Founder / Go Backend Lead | 2021 → now | HR SaaS |
 
 ---
 
-## 🚀 Current Side Project
+## 🚀 Side Project — Workmonitor
 
 ```go
-// Building in the dark — Go backend, event-driven, regulated-industry SaaS
+// Workmonitor — Work Social Network & HR platform (workmonitor.io)
 package main
 
-type SaaSPlatform struct {
+type Workmonitor struct {
+    Concept      string   // Work Social Network: HR tasks meet team transparency
+    Features     []string // Leave management · Mileage · Team feed · Approve/Reject flows
+    MultiTenant  bool     // true — company email domain isolation
+    Pricing      string   // Free 3 months · $10/user/month
     Backend      string   // Go — REST + gRPC APIs
     EventBus     string   // Kafka (Franz-go)
     Databases    []string // PostgreSQL · MongoDB · ScyllaDB
     Auth         string   // Entra ID + SSO
     Billing      string   // Stripe
-    Observability string  // zap + custom ScyllaDB writer
     Infra        string   // Docker · Kubernetes-ready manifests
-    Status       string   // MVP — final development stage 🔒
+    Since        int      // 2021
 }
 ```
 
-> Multi-tenant platform for regulated industries. Designed and built the entire backend from scratch
-> as part of a small founding team. Registered company in Ireland.
+> **Workmonitor** makes HR tasks fun and efficient — employees request leave, log mileage and expenses
+> through a social activity feed, keeping the whole team informed while keeping private matters private.
+> Managers approve or reject requests inline with full conversation threads.
+> Co-founded and built the entire Go backend from scratch. Registered company in Ireland.
 
 ---
 
