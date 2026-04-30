@@ -147,21 +147,16 @@ type Workmonitor struct {
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 What I bring to a team
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=juanjoseluisgarcia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoseluisgarcia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjoseluisgarcia&theme=tokyonight&hide_border=true" />
-
-</div>
+| Strength | Detail |
+|---|---|
+| 🏗️ Architecture | Greenfield microservices, legacy → cloud-native migrations, monorepo setup |
+| 👥 Leadership | Team Lead managing 5 engineers + cross-team coordination across 4 teams |
+| 🚢 Delivery | End-to-end ownership: design → implementation → CI/CD → release |
+| 🧪 Quality | TDD advocate — Cypress, Jasmine, Bruno CLI, integration test suites |
+| 🔐 Regulated domains | Fintech, Banking, Central Bank, ESMA compliance — production-grade standards |
+| 🌍 Languages | English (native proficiency) · Spanish (native) |
 
 ---
 
