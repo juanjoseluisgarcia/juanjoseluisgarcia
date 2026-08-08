@@ -5,6 +5,17 @@
 </div>
 
 <div align="center">
+<pre>
+     ██╗██╗   ██╗ █████╗ ███╗   ██╗     ██████╗  █████╗ ██████╗  ██████╗██╗ █████╗
+     ██║██║   ██║██╔══██╗████╗  ██║    ██╔════╝ ██╔══██╗██╔══██╗██╔════╝██║██╔══██╗
+     ██║██║   ██║███████║██╔██╗ ██║    ██║  ███╗███████║██████╔╝██║     ██║███████║
+██   ██║██║   ██║██╔══██║██║╚██╗██║    ██║   ██║██╔══██║██╔══██╗██║     ██║██╔══██║
+╚█████╔╝╚██████╔╝██║  ██║██║ ╚████║    ╚██████╔╝██║  ██║██║  ██║╚██████╗██║██║  ██║
+ ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝╚═╝  ╚═╝
+</pre>
+</div>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=780&lines=Senior+Software+Engineer+%7C+20%2B+years+in+production+systems;TypeScript+%7C+Node.js+%7C+React+%7C+Go+%7C+.NET;Fintech+%7C+SaaS+%7C+Banking+%7C+Regulated+software;Product+delivery+%7C+APIs+%7C+Distributed+systems+%7C+Quality)](https://git.io/typing-svg)
 
