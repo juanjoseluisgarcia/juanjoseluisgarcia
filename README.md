@@ -1,10 +1,4 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Juan%20Garc%C3%ADa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Team%20Lead%20%7C%20Dublin%20%F0%9F%87%AE%F0%9F%87%AA&descSize=18&descAlignY=60&descColor=dddddd"/>
-
-</div>
-
-<div align="center">
 <pre>
      ██╗██╗   ██╗ █████╗ ███╗   ██╗     ██████╗  █████╗ ██████╗  ██████╗██╗ █████╗
      ██║██║   ██║██╔══██╗████╗  ██║    ██╔════╝ ██╔══██╗██╔══██╗██╔════╝██║██╔══██╗
@@ -17,7 +11,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=780&lines=Senior+Software+Engineer+%7C+20%2B+years+in+production+systems;TypeScript+%7C+Node.js+%7C+React+%7C+Go+%7C+.NET;Fintech+%7C+SaaS+%7C+Banking+%7C+Regulated+software;Product+delivery+%7C+APIs+%7C+Distributed+systems+%7C+Quality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=20%2B+years+building+production+systems;TypeScript+%7C+Node.js+%7C+React+%7C+Go+%7C+.NET;Fintech+%7C+SaaS+%7C+Banking;Product+delivery+%7C+APIs+%7C+Distributed+systems)](https://git.io/typing-svg)
 
 </div>
 
