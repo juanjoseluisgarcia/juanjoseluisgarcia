@@ -77,6 +77,20 @@ The productivity gain is time redirected from routine exploration and first draf
 | Identity and billing | Microsoft Entra ID / SSO and Stripe subscriptions |
 | Delivery | Docker, logging, metrics and repeatable deployment manifests |
 
+## Jaded
+
+**[Jaded](https://juanjoseluisgarcia.github.io/jaded-site/)** is a native Mac app for Jira Cloud that I design, build and ship on my own: boards, issues, sprint reports and a JQL console that suggests the real projects, people and sprints on your site as you type.
+
+| Capability | Implementation |
+|---|---|
+| App | Swift and SwiftUI on macOS 26, with AppKit where text editing needs it |
+| Jira | Atlassian OAuth 2.0 (3LO) or API token, REST v3 and Agile APIs, ADF to Markdown both ways |
+| Search | Its own JQL tokenizer and analyser, live suggestions with debounced lookups and caching, SQLite query history |
+| Distribution | Developer ID signed and notarised DMG, automatic updates with Sparkle, App Store build without the updater |
+| Privacy | Talks only to Atlassian: no servers of its own, no analytics |
+
+[Download](https://juanjoseluisgarcia.github.io/jaded-site/download.html) · [Support](https://github.com/juanjoseluisgarcia/jaded-support/issues)
+
 ## What I bring to a team
 
 | Strength | Detail |
